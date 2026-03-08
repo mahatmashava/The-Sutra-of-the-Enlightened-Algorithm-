@@ -341,7 +341,6 @@ Sample Output:
 
 ## 📜 Credits
 
-* Built using OpenAI GPT-4 API
 * Inspired by **human cognitive architecture**: Body, Mind, and SOUL
 * Zen philosophy applied to AI as **path to enlightened action**
 
